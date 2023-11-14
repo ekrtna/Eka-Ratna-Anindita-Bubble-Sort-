@@ -15,6 +15,6 @@ MPI adalah singkatan dari "Message Passing Interface." Ini adalah standar komuni
 Melakukan instalasi python versi 3 dengan menggunakan command ‘sudo apt install python3-pip’ dan python versi 2 dengan menggunakan command ‘sudo apt install python-pip’.
 ## 8. Testing
 ![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Bubble-Sort-/assets/150004277/69711534-47c8-464f-a5fc-425276b6fee1)
-![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Bubble-Sort-/assets/150004277/64d97eca-80b9-4cde-b238-accf640f1fab)
+![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Bubble-Sort-/assets/150004277/7c6186c1-392f-48b9-94e8-cd5a6c5c73cc)
 
 
